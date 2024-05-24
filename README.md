@@ -26,7 +26,7 @@ On the terminal run the following command:
 
 After the opening of the notebook run the entire note book one time by clicking on the following option :
 
-        ![Getting Started](./images/image1.png)
+![Getting Started](./images/image1.png)
 
 The above step will create necessary data which will help to select data for the deployment.
 
@@ -34,7 +34,7 @@ The above step will create necessary data which will help to select data for the
 
 As TMDB is not working currently in India so u would be required to connect to a VPN.Here is a short video to set it up.
 
-                [click here](https://www.youtube.com/watch?v=XxWR-iMqpig)
+[click here](https://www.youtube.com/watch?v=XxWR-iMqpig)
 
 # Run the App
 
