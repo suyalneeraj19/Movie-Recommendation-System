@@ -42,5 +42,10 @@ In the terminal run the following command
 
         stream run app.py
 
+# Result
+
+![Getting Started](./images/image2.png)
+
+
 
 
