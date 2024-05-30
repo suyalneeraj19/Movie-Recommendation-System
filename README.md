@@ -40,7 +40,7 @@ As TMDB is not working currently in India so u would be required to connect to a
 
 In the terminal run the following command
 
-        stream run app.py
+        streamlit run app.py
 
 # Result
 
